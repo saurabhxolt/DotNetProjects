@@ -1,0 +1,12 @@
+C:\Users\saisa\OneDrive\Desktop\CDAC\PROGRAMS\.NET Websites\ClientwithWebAPI\bin\Debug\ClientwithWebAPI.exe.config
+C:\Users\saisa\OneDrive\Desktop\CDAC\PROGRAMS\.NET Websites\ClientwithWebAPI\bin\Debug\ClientwithWebAPI.exe
+C:\Users\saisa\OneDrive\Desktop\CDAC\PROGRAMS\.NET Websites\ClientwithWebAPI\bin\Debug\ClientwithWebAPI.pdb
+C:\Users\saisa\OneDrive\Desktop\CDAC\PROGRAMS\.NET Websites\ClientwithWebAPI\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\saisa\OneDrive\Desktop\CDAC\PROGRAMS\.NET Websites\ClientwithWebAPI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\saisa\OneDrive\Desktop\CDAC\PROGRAMS\.NET Websites\ClientwithWebAPI\bin\Debug\ClassLibrary.dll
+C:\Users\saisa\OneDrive\Desktop\CDAC\PROGRAMS\.NET Websites\ClientwithWebAPI\bin\Debug\ClassLibrary.pdb
+C:\Users\saisa\OneDrive\Desktop\CDAC\PROGRAMS\.NET Websites\ClientwithWebAPI\obj\Debug\ClientwithWebAPI.csproj.AssemblyReference.cache
+C:\Users\saisa\OneDrive\Desktop\CDAC\PROGRAMS\.NET Websites\ClientwithWebAPI\obj\Debug\ClientwithWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\saisa\OneDrive\Desktop\CDAC\PROGRAMS\.NET Websites\ClientwithWebAPI\obj\Debug\ClientwithWebAPI.csproj.CopyComplete
+C:\Users\saisa\OneDrive\Desktop\CDAC\PROGRAMS\.NET Websites\ClientwithWebAPI\obj\Debug\ClientwithWebAPI.exe
+C:\Users\saisa\OneDrive\Desktop\CDAC\PROGRAMS\.NET Websites\ClientwithWebAPI\obj\Debug\ClientwithWebAPI.pdb

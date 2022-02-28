@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "2DQS9RnUB++/F17lLJ0D2S5lLr2Tunk6FaIcn3x7faoL0JZJqtQsQhQmurueA89pxZAbP4STWjMWz6oRPTYhxA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\saisa\\OneDrive\\Desktop\\CDAC\\PROGRAMS\\.NET Websites\\ClientwithWebAPI\\ClientwithWebAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\saisa\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.7\\microsoft.aspnet.webapi.client.5.2.7.nupkg.sha512",
+    "C:\\Users\\saisa\\.nuget\\packages\\newtonsoft.json\\6.0.4\\newtonsoft.json.6.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
